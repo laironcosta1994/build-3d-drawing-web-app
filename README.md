@@ -8,10 +8,6 @@
 
 This project is a 3D drawing app built with React Three Fiber, featuring a 2D drawing canvas and an integration of Vincent van Gogh's famous painting, "Bedroom in Arles." The app allows users to draw with different brush colors and sizes while exploring a 3D representation of Van Gogh's iconic artwork.
 
-# Tutorial Video 
-
-https://youtu.be/V1QuUHgGdx4?si=e1h4L73x4ok0khyO
-
 
 ## Installation
 
